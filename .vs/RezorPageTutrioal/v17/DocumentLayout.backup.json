@@ -1,0 +1,525 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE7BD5-2CAC-463C-8D0E-BF4983F561E4}|RazorPagesToutrial.Models\\RazorPagesToutrial.Models.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\razorpagestoutrial.models\\deptheadcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FE7BD5-2CAC-463C-8D0E-BF4983F561E4}|RazorPagesToutrial.Models\\RazorPagesToutrial.Models.csproj|solutionrelative:razorpagestoutrial.models\\deptheadcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE7BD5-2CAC-463C-8D0E-BF4983F561E4}|RazorPagesToutrial.Models\\RazorPagesToutrial.Models.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\razorpagestoutrial.models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FE7BD5-2CAC-463C-8D0E-BF4983F561E4}|RazorPagesToutrial.Models\\RazorPagesToutrial.Models.csproj|solutionrelative:razorpagestoutrial.models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\employees\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\employees\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B95262-5CF4-42EA-A084-F9C69184EDC2}|RazorPagesTutrioal.Services\\RazorPagesTutrioal.Services.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\razorpagestutrioal.services\\sqlemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B95262-5CF4-42EA-A084-F9C69184EDC2}|RazorPagesTutrioal.Services\\RazorPagesTutrioal.Services.csproj|solutionrelative:razorpagestutrioal.services\\sqlemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B95262-5CF4-42EA-A084-F9C69184EDC2}|RazorPagesTutrioal.Services\\RazorPagesTutrioal.Services.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\razorpagestutrioal.services\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B95262-5CF4-42EA-A084-F9C69184EDC2}|RazorPagesTutrioal.Services\\RazorPagesTutrioal.Services.csproj|solutionrelative:razorpagestutrioal.services\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B95262-5CF4-42EA-A084-F9C69184EDC2}|RazorPagesTutrioal.Services\\RazorPagesTutrioal.Services.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\razorpagestutrioal.services\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B95262-5CF4-42EA-A084-F9C69184EDC2}|RazorPagesTutrioal.Services\\RazorPagesTutrioal.Services.csproj|solutionrelative:razorpagestutrioal.services\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE7BD5-2CAC-463C-8D0E-BF4983F561E4}|RazorPagesToutrial.Models\\RazorPagesToutrial.Models.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\razorpagestoutrial.models\\dept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FE7BD5-2CAC-463C-8D0E-BF4983F561E4}|RazorPagesToutrial.Models\\RazorPagesToutrial.Models.csproj|solutionrelative:razorpagestoutrial.models\\dept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\employees\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\employees\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\v2\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\v2\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\v2\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\v2\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\v2\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\v2\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\v2\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\v2\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\v2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\v2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\v2\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\v2\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\v2\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\v2\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\v2\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\v2\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\v2\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\v2\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\v2\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\v2\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\rezorpagetutrioal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\rezorpagetutrioal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\view components\\headcountviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\view components\\headcountviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\shared\\components\\headcount\\default.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\shared\\components\\headcount\\default.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\shared\\components\\headcount\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\shared\\components\\headcount\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\rezorpagetutrioal\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429EA764-1AB0-48F5-B430-159D4470FFCF}|RezorPageTutrioal\\RezorPageTutrioal.csproj|solutionrelative:rezorpagetutrioal\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B95262-5CF4-42EA-A084-F9C69184EDC2}|RazorPagesTutrioal.Services\\RazorPagesTutrioal.Services.csproj|c:\\users\\asus\\source\\repos\\rezorpagetutrioal\\razorpagestutrioal.services\\migrations\\20250304031821_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B95262-5CF4-42EA-A084-F9C69184EDC2}|RazorPagesTutrioal.Services\\RazorPagesTutrioal.Services.csproj|solutionrelative:razorpagestutrioal.services\\migrations\\20250304031821_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RazorPagesToutrial.Models\\Employee.cs",
+              "RelativeDocumentMoniker": "RazorPagesToutrial.Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RazorPagesToutrial.Models\\Employee.cs",
+              "RelativeToolTip": "RazorPagesToutrial.Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:54:33.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContex.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RazorPagesTutrioal.Services\\AppDbContex.cs",
+              "RelativeDocumentMoniker": "RazorPagesTutrioal.Services\\AppDbContex.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RazorPagesTutrioal.Services\\AppDbContex.cs",
+              "RelativeToolTip": "RazorPagesTutrioal.Services\\AppDbContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:30:36.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Employees\\Index.cshtml",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T20:16:14.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeptHeadCount.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RazorPagesToutrial.Models\\DeptHeadCount.cs",
+              "RelativeDocumentMoniker": "RazorPagesToutrial.Models\\DeptHeadCount.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RazorPagesToutrial.Models\\DeptHeadCount.cs",
+              "RelativeToolTip": "RazorPagesToutrial.Models\\DeptHeadCount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:45:16.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dept.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RazorPagesToutrial.Models\\Dept.cs",
+              "RelativeDocumentMoniker": "RazorPagesToutrial.Models\\Dept.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RazorPagesToutrial.Models\\Dept.cs",
+              "RelativeToolTip": "RazorPagesToutrial.Models\\Dept.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:47:14.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RazorPagesTutrioal.Services\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "RazorPagesTutrioal.Services\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RazorPagesTutrioal.Services\\IEmployeeRepository.cs",
+              "RelativeToolTip": "RazorPagesTutrioal.Services\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:23:52.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RazorPagesTutrioal.Services\\SQLEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "RazorPagesTutrioal.Services\\SQLEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RazorPagesTutrioal.Services\\SQLEmployeeRepository.cs",
+              "RelativeToolTip": "RazorPagesTutrioal.Services\\SQLEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:04:00.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Employees\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\Employees\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Employees\\Details.cshtml.cs",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\Employees\\Details.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:22:53.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\Employees\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\Employees\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:15:09.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Employees\\Details.cshtml",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T21:01:11.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\V2\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Delete.cshtml",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\V2\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T13:23:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Details.cshtml",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\V2\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Details.cshtml",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\V2\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T13:23:13.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\Employees\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Employees\\Delete.cshtml.cs",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\Employees\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:23:44.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T19:23:35.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T11:29:15.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Create.cshtml",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\V2\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Create.cshtml",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\V2\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T13:23:12.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\V2\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Edit.cshtml",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\V2\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T13:23:13.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\V2\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Edit.cshtml.cs",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\V2\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:23:13.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\V2\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Details.cshtml.cs",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\V2\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:23:13.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\V2\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Delete.cshtml.cs",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\V2\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:23:14.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Index.cshtml",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\V2\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Index.cshtml",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\V2\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T13:23:14.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\V2\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Index.cshtml.cs",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\V2\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:23:14.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\V2\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\V2\\Create.cshtml.cs",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\V2\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:23:12.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250304031821_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RazorPagesTutrioal.Services\\Migrations\\20250304031821_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RazorPagesTutrioal.Services\\Migrations\\20250304031821_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RazorPagesTutrioal.Services\\Migrations\\20250304031821_InitialCreate.cs",
+              "RelativeToolTip": "RazorPagesTutrioal.Services\\Migrations\\20250304031821_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:18:21.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Program.cs",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Program.cs",
+              "RelativeToolTip": "RezorPageTutrioal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:47:06.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RezorPageTutrioal.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\RezorPageTutrioal.csproj",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\RezorPageTutrioal.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\RezorPageTutrioal.csproj",
+              "RelativeToolTip": "RezorPageTutrioal\\RezorPageTutrioal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T13:04:52.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\appsettings.json",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\appsettings.json",
+              "RelativeToolTip": "RezorPageTutrioal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T13:24:44.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HeadCountViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\View Components\\HeadCountViewComponent.cs",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\View Components\\HeadCountViewComponent.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\View Components\\HeadCountViewComponent.cs",
+              "RelativeToolTip": "RezorPageTutrioal\\View Components\\HeadCountViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:11:46.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Shared\\Components\\HeadCount\\Default.cshtml",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\Shared\\Components\\HeadCount\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Shared\\Components\\HeadCount\\Default.cshtml",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\Shared\\Components\\HeadCount\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T20:54:58.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Default.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Shared\\Components\\HeadCount\\Default.cshtml.cs",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\Shared\\Components\\HeadCount\\Default.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Shared\\Components\\HeadCount\\Default.cshtml.cs",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\Shared\\Components\\HeadCount\\Default.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:44:20.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "RezorPageTutrioal\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RezorPageTutrioal\\RezorPageTutrioal\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "RezorPageTutrioal\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T20:02:05.54Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

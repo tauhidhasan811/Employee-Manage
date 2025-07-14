@@ -1,0 +1,29 @@
+﻿@page
+@model RezorPageTutrioal.Pages.Employees.IndexModel
+@{
+	ViewData["Title"] = "Employees";
+}
+<h1>Employees</h1>	
+
+<div class="card-deck row">
+	@foreach (var employee in Model.Employees)
+	{
+		var imagepath = "/images/" + (employee.PhotoPath ?? "noimage.jpg");
+
+		<div class="card m-3" style="min-width: 18rem; max-width: 30.5%;">
+			<div class="card-header">
+				<h5 >@employee.Name</h5>
+			</div>
+			<img class="imageThumbnail" src="@imagepath" alt="" asp-append-version=true />
+
+			<div class="card-footer text-center">
+				<a asp-page="/Employees/Details" asp-route-ID="@employee.Id" class=" btn btn-primary m-1"> View</a>
+				<a asp-page="/Employees/Edit" asp-route-ID="@employee.Id" class="btn btn-primary m-1"> Edit</a>
+				<a asp-page="/Employees/Delete" asp-route-ID="@employee.Id"
+				   class="btn btn-danger m-1">Delete</a>
+			</div>
+		</div>
+
+		//<partial name="_DisplayEmployeePartial" model="employee" view-data="ViewData" />
+	}
+</div>

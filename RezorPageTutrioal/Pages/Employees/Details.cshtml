@@ -1,0 +1,40 @@
+﻿@page "/empoyees/view/{id}"
+@using RazorPagesToutrial.Models
+@model RezorPageTutrioal.Pages.Employees.DetailsModel
+
+
+@{
+    ViewData["Title"] = "Details";
+    var imagepath = "/images/" + (Model.Employee.PhotoPath ?? "noimage.jpg");
+}
+@if (TempData["message"] != null)
+{
+	<div class="col-sm-8">
+		<div class="alert alert-primary">
+			@TempData["message"]
+		</div>
+	</div>
+}
+<div class="card-deck row">
+		<div class="card m-3" style="min-width: 18rem; max-width: 30.5%;">
+			
+		<img class="imageThumbnail" src="@imagepath" alt="" asp-append-version=true />
+		<div class="card-header">
+
+			<h2>Name: @Model.Employee.Name</h2>
+		</div>
+			
+		<div class="card-header">
+			<h5>Depart Name: @Model.Employee.Department</h5>
+		</div>
+		<div class="card-header">
+			<h5>Email: @Model.Employee.Email</h5>
+		</div>
+		<div class="card-footer text-center">
+			<a asp-page="index" class="btn btn-primary m-1"> Back</a>
+			<a href="#" class="btn btn-primary m-1"> Edit</a>
+			<a href="#" class="btn btn-danger m-1"> Delete</a>
+		</div>
+		</div>
+	
+</div>

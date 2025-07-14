@@ -1,0 +1,22 @@
+﻿@page
+@model RezorPageTutrioal.Pages.Shared.Components.HeadCount.DefaultModel
+
+<h3>Employee Head Count Summary</h3>
+
+<table class="table table-bordered">
+    <thead class="thead-light">
+        <tr>
+            <th>Department</th>
+            <th>Head Count</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var deptHeadCount in Model.DeptHeadCounts)
+        {
+            <tr>
+                <td>@deptHeadCount.Department</td>
+                <td>@deptHeadCount.Count</td>
+            </tr>
+        }
+    </tbody>
+</table>

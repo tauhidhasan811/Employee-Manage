@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\bin\Debug\net8.0\RazorPagesTutrioal.Services.deps.json
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\bin\Debug\net8.0\RazorPagesTutrioal.Services.dll
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\bin\Debug\net8.0\RazorPagesTutrioal.Services.pdb
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\bin\Debug\net8.0\RazorPagesToutrial.Models.dll
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\bin\Debug\net8.0\RazorPagesToutrial.Models.pdb
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\obj\Debug\net8.0\RazorPagesTutrioal.Services.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\obj\Debug\net8.0\RazorPagesTutrioal.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\obj\Debug\net8.0\RazorPagesTutrioal.Services.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\obj\Debug\net8.0\RazorPagesTutrioal.Services.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\obj\Debug\net8.0\RazorPagesTutrioal.Services.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\obj\Debug\net8.0\RazorPag.BA9FDCC7.Up2Date
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\obj\Debug\net8.0\RazorPagesTutrioal.Services.dll
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\obj\Debug\net8.0\refint\RazorPagesTutrioal.Services.dll
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\obj\Debug\net8.0\RazorPagesTutrioal.Services.pdb
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\obj\Debug\net8.0\ref\RazorPagesTutrioal.Services.dll
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\bin\Debug\net8.0\RazorPagesTutrioal.Services.runtimeconfig.json
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesTutrioal.Services\obj\Debug\net8.0\RazorPagesTutrioal.Services.genruntimeconfig.cache

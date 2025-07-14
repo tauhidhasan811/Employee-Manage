@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesToutrial.Models\bin\Debug\net8.0\RazorPagesToutrial.Models.deps.json
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesToutrial.Models\bin\Debug\net8.0\RazorPagesToutrial.Models.dll
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesToutrial.Models\bin\Debug\net8.0\RazorPagesToutrial.Models.pdb
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesToutrial.Models\obj\Debug\net8.0\RazorPagesToutrial.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesToutrial.Models\obj\Debug\net8.0\RazorPagesToutrial.Models.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesToutrial.Models\obj\Debug\net8.0\RazorPagesToutrial.Models.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesToutrial.Models\obj\Debug\net8.0\RazorPagesToutrial.Models.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesToutrial.Models\obj\Debug\net8.0\RazorPagesToutrial.Models.dll
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesToutrial.Models\obj\Debug\net8.0\refint\RazorPagesToutrial.Models.dll
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesToutrial.Models\obj\Debug\net8.0\RazorPagesToutrial.Models.pdb
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesToutrial.Models\obj\Debug\net8.0\ref\RazorPagesToutrial.Models.dll
+C:\Users\ASUS\source\repos\RezorPageTutrioal\RazorPagesToutrial.Models\obj\Debug\net8.0\RazorPagesToutrial.Models.csproj.AssemblyReference.cache
